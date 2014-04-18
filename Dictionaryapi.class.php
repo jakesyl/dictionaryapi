@@ -4,7 +4,7 @@
  */
 class Dictionaryapi {
   // API URL
-  private $url = 'http://www.dictionaryapi.com/api/v1/references/';
+  //private $url = 'http://www.dictionaryapi.com/api/v1/references/';
   // Response format
   private $format = 'xml';
   // Access key for dictionaries
